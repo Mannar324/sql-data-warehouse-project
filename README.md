@@ -1,7 +1,7 @@
-# 📦 SQL Data Warehouse Project  
-A modern data warehouse built using SQL
+# 📦 SQL Data Warehouse Project
 
-This project showcases the full lifecycle of building a **modern data warehouse** — from designing the data model to developing robust **ETL pipelines** and performing meaningful **data analysis**.
+A complete end-to-end project demonstrating how to build a **modern data warehouse** — from data modeling and ETL development to running analytical SQL queries and generating business insights.
+
 ---
 
 ## 🚀 Project Requirements
