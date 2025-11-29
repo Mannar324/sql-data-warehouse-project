@@ -1,0 +1,19 @@
+/*
+script purpose:
+this script creates database datawarehouse if it is not exist 
+and then creates 3 schemas bronze,silver and gold 
+*/
+
+
+use master 
+go
+-- create database "datawarehouse"
+use DataWarehouse;
+go
+
+-- create schemas
+create schema bronze;
+go
+create schema silver;
+go
+create schema gold;
